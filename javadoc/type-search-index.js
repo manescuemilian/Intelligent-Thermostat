@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"termostat","l":"Camera"},{"p":"termostat","l":"Main"},{"p":"termostat","l":"Senzor"},{"p":"termostat","l":"Sistem"}]
